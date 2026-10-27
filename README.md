@@ -32,10 +32,8 @@ An interactive business intelligence and commercial performance dashboard built 
 
 
 * Install dependencies:
-    Bash
     pip install -r requirements.txt 
 
 
 * Launch the dashboard:
-    Bash
     streamlit run app.py      
